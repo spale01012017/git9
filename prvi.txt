@@ -1,2 +1,2 @@
 prva linija prvi fajl
-druga linija prvi fajl
+...sa moje nove grane
